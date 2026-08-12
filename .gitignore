@@ -1,0 +1,15 @@
+.env
+
+# Node dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+__pycache__/
+
+# Optional local environment files
+*.pyc

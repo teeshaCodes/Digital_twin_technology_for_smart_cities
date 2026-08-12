@@ -1,0 +1,1026 @@
+[
+  {
+    "level": 44,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:41:15.172Z"
+  },
+  {
+    "level": 45,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:42:15.187Z"
+  },
+  {
+    "level": 41,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T16:43:15.199Z"
+  },
+  {
+    "level": 44,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:44:15.203Z"
+  },
+  {
+    "level": 52,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:45:15.208Z"
+  },
+  {
+    "level": 52,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:46:15.213Z"
+  },
+  {
+    "level": 50,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:47:15.225Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:48:15.228Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 32,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T16:49:15.240Z"
+  },
+  {
+    "level": 44,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:50:15.249Z"
+  },
+  {
+    "level": 40,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T16:51:15.262Z"
+  },
+  {
+    "level": 47,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T16:52:15.274Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 32,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:53:15.295Z"
+  },
+  {
+    "level": 39,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:54:15.297Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 33,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:55:15.314Z"
+  },
+  {
+    "level": 42,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T16:56:15.325Z"
+  },
+  {
+    "level": 45,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T16:57:15.328Z"
+  },
+  {
+    "level": 41,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T16:58:15.335Z"
+  },
+  {
+    "level": 46,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T16:59:15.334Z"
+  },
+  {
+    "level": 41,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:00:15.344Z"
+  },
+  {
+    "level": 39,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:01:15.358Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:02:15.369Z"
+  },
+  {
+    "level": 45,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T17:03:15.373Z"
+  },
+  {
+    "level": 39,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:04:15.391Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:05:15.404Z"
+  },
+  {
+    "level": 51,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:06:15.400Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:07:15.412Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:08:15.413Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:09:15.427Z"
+  },
+  {
+    "level": 39,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:10:15.433Z"
+  },
+  {
+    "level": 45,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:11:15.442Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T17:12:15.443Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:13:15.446Z"
+  },
+  {
+    "level": 39,
+    "currentSpeed": 34,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:14:15.454Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 33,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:15:15.456Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 33,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:16:15.468Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:17:15.471Z"
+  },
+  {
+    "level": 38,
+    "currentSpeed": 32,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:18:15.485Z"
+  },
+  {
+    "level": 42,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:19:15.497Z"
+  },
+  {
+    "level": 40,
+    "currentSpeed": 32,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:20:15.512Z"
+  },
+  {
+    "level": 44,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:21:15.525Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T17:22:15.538Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 33,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:23:15.550Z"
+  },
+  {
+    "level": 47,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:24:15.559Z"
+  },
+  {
+    "level": 42,
+    "currentSpeed": 35,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:25:15.558Z"
+  },
+  {
+    "level": 45,
+    "currentSpeed": 37,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 2,
+    "timestamp": "2026-07-18T17:26:15.569Z"
+  },
+  {
+    "level": 48,
+    "currentSpeed": 36,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T17:27:15.576Z"
+  },
+  {
+    "level": 41,
+    "currentSpeed": 38,
+    "freeFlowSpeed": 60,
+    "delay": 4,
+    "activeIncidents": 3,
+    "timestamp": "2026-07-18T17:28:15.580Z"
+  },
+  {
+    "level": 49,
+    "currentSpeed": 33,
+    "freeFlowSpeed": 60,
+    "delay": 5,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:29:15.583Z"
+  },
+  {
+    "level": 18,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:30:15.594Z"
+  },
+  {
+    "level": 18,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:31:15.603Z"
+  },
+  {
+    "level": 18,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:32:15.604Z"
+  },
+  {
+    "level": 12,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:33:15.614Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:34:15.624Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:35:15.627Z"
+  },
+  {
+    "level": 12,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:36:15.634Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:37:15.649Z"
+  },
+  {
+    "level": 17,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:38:15.655Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:39:15.661Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:40:15.673Z"
+  },
+  {
+    "level": 7,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:41:15.689Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:42:15.691Z"
+  },
+  {
+    "level": 15,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:43:15.704Z"
+  },
+  {
+    "level": 10,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:44:15.708Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:45:15.709Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:46:15.718Z"
+  },
+  {
+    "level": 11,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:47:15.733Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:48:15.734Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:49:15.746Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:50:15.751Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:51:15.767Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:52:15.772Z"
+  },
+  {
+    "level": 6,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:53:15.776Z"
+  },
+  {
+    "level": 11,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:54:15.804Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 58,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:55:15.786Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T17:56:15.797Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:57:15.803Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:58:15.816Z"
+  },
+  {
+    "level": 17,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T17:59:15.823Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:00:15.830Z"
+  },
+  {
+    "level": 10,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:01:15.838Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:02:15.850Z"
+  },
+  {
+    "level": 15,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:03:15.858Z"
+  },
+  {
+    "level": 10,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:04:15.850Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:05:15.865Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:06:15.867Z"
+  },
+  {
+    "level": 6,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:07:15.875Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 58,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:15.886Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:31.894Z"
+  },
+  {
+    "level": 15,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:33.254Z"
+  },
+  {
+    "level": 10,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:34.811Z"
+  },
+  {
+    "level": 6,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:36.268Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:37.649Z"
+  },
+  {
+    "level": 14,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:39.057Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:40.620Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:42.111Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:43.623Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:45.170Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:46.662Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:48.158Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:49.565Z"
+  },
+  {
+    "level": 7,
+    "currentSpeed": 58,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:51.029Z"
+  },
+  {
+    "level": 7,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:52.478Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:53.879Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 58,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:55.384Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:56.829Z"
+  },
+  {
+    "level": 10,
+    "currentSpeed": 58,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:08:58.383Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:08:59.737Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:01.221Z"
+  },
+  {
+    "level": 11,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:02.707Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:04.241Z"
+  },
+  {
+    "level": 7,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:05.593Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:07.038Z"
+  },
+  {
+    "level": 11,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:08.531Z"
+  },
+  {
+    "level": 15,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:10.132Z"
+  },
+  {
+    "level": 15,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:11.602Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 55,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:13.133Z"
+  },
+  {
+    "level": 6,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:14.633Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:16.175Z"
+  },
+  {
+    "level": 8,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:17.648Z"
+  },
+  {
+    "level": 19,
+    "currentSpeed": 57,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:19.101Z"
+  },
+  {
+    "level": 5,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:20.617Z"
+  },
+  {
+    "level": 16,
+    "currentSpeed": 53,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:22.128Z"
+  },
+  {
+    "level": 11,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 1,
+    "timestamp": "2026-07-18T18:09:23.600Z"
+  },
+  {
+    "level": 18,
+    "currentSpeed": 56,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:24.971Z"
+  },
+  {
+    "level": 17,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 2,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:26.506Z"
+  },
+  {
+    "level": 13,
+    "currentSpeed": 52,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:27.993Z"
+  },
+  {
+    "level": 9,
+    "currentSpeed": 54,
+    "freeFlowSpeed": 60,
+    "delay": 1,
+    "activeIncidents": 0,
+    "timestamp": "2026-07-18T18:09:29.501Z"
+  }
+]
